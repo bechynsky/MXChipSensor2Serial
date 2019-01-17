@@ -1,6 +1,6 @@
 # MXChip Sensor to Serial port
 
-Sample application sending data from temperature and humidity sensor to serial port in CSV format.
+Sample application for [MXChip](https://microsoft.github.io/azure-iot-developer-kit/docs/get-started/) sending data from temperature and humidity sensor to serial port in CSV format.
 
 ```
 27.2;46.8
