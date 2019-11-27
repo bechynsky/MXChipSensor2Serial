@@ -8,3 +8,13 @@ Sample application for [MXChip](https://microsoft.github.io/azure-iot-developer-
 
 Application is designed to be used with [SerialToAzure](https://github.com/bechynsky/SerialToAzure) to demonstrate usage of Filed gateway in [Azure IoT Reference architecture](http://download.microsoft.com/download/A/4/D/A4DAD253-BC21-41D3-B9D9-87D2AE6F0719/Microsoft_Azure_IoT_Reference_Architecture.pdf).
 
+## Support for MXChip in Arduino IDE
+
+Check [Arduino IDE Installing additional cores](https://www.arduino.cc/en/guide/cores) documentation.
+
+MXChip Boards Manager URL: 
+
+```
+https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/master/package_azureboard_index.json
+```
+
